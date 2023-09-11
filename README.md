@@ -22,3 +22,8 @@ There are right now some nice flight simulators. Some of them are free software,
 - XWings
 - Flight Gear
 - Microsoft Flight Simulator
+- X-Plane 12
+- Aerofly FS
+- Infinite Flight
+- FlyInside
+
