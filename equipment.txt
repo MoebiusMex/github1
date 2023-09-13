@@ -1,9 +1,5 @@
 PC
 graphics card
-<<<<<<< HEAD
 conflict text 1
-=======
-other conflict 2
->>>>>>> other
 controller
 
